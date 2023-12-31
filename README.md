@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jm4293)](https://solved.ac/jm4293/)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jm4293&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jm4293&layout=compact)
 
 
 <!--
