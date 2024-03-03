@@ -1,5 +1,18 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jm4293&layout=compact)
+## Jaemin LEE 👋
 
+> Frontend Developer
+
+
+## 🔥 Project in progress
+
+   * [**ilsanPark**](https://github.com/jm4293/ilsanPark)
+   * airplaneBoard
+
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jm4293)](https://github.com/jm4293/github-readme-stats) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jm4293&layout=compact)
 
 
 <!--
