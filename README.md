@@ -14,6 +14,7 @@
 
 | Name                                                           | Description          |
 |----------------------------------------------------------------|----------------------|
+| [stock-desk](https://github.com/jm4293/stock-desk)             | 해외 주식 데스크         | 
 | [devBlog.kr](https://github.com/jm4293/dev-blog)               | 개발 블로그 모음         |
 
 
